@@ -53,9 +53,9 @@ Screenshots of the application are available in the `screenshots/` folder:
 
 ## 🎥 Project Demo Video
 
-A complete 2 minutes explanatory video demonstrating the application is available here:
+A complete 6-7 minutes explanatory video demonstrating the application is available here:
 
-👉 https://drive.google.com/file/d/1Eq_rNzFEBHqXRALgDZDV7brb1fZjwhMI/view?usp=drive_link
+👉 https://drive.google.com/file/d/18DTIrdUZeJxHwJlS2mIQmT77WdlQosfk/view?usp=drivesdk
 ---
 
 ## 🛠️ Tech Stack
